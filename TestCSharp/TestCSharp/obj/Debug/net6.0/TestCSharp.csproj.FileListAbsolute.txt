@@ -1,0 +1,15 @@
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.csproj.AssemblyReference.cache
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.AssemblyInfoInputs.cache
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.AssemblyInfo.cs
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.csproj.CoreCompileInputs.cache
+F:\TestCSharp\TestCSharp\TestCSharp\bin\Debug\net6.0\TestCSharp.exe
+F:\TestCSharp\TestCSharp\TestCSharp\bin\Debug\net6.0\TestCSharp.deps.json
+F:\TestCSharp\TestCSharp\TestCSharp\bin\Debug\net6.0\TestCSharp.runtimeconfig.json
+F:\TestCSharp\TestCSharp\TestCSharp\bin\Debug\net6.0\TestCSharp.dll
+F:\TestCSharp\TestCSharp\TestCSharp\bin\Debug\net6.0\TestCSharp.pdb
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.dll
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\refint\TestCSharp.dll
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.pdb
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\TestCSharp.genruntimeconfig.cache
+F:\TestCSharp\TestCSharp\TestCSharp\obj\Debug\net6.0\ref\TestCSharp.dll
